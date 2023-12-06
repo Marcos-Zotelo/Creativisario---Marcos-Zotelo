@@ -1,0 +1,52 @@
+E:\ProyectoProgramación\ProyectoProgramación\obj\Debug\ProyectoProgramación.csprojResolveAssemblyReference.cache
+E:\ProyectoProgramación\ProyectoProgramación\obj\Debug\ProyectoProgramación.Formnivel1.resources
+E:\ProyectoProgramación\ProyectoProgramación\obj\Debug\ProyectoProgramación.MainForm.resources
+E:\ProyectoProgramación\ProyectoProgramación\obj\Debug\ProyectoProgramación.csproj.GenerateResource.Cache
+E:\ProyectoProgramación\ProyectoProgramación\bin\Debug\ProyectoProgramación.exe.config
+E:\ProyectoProgramación\ProyectoProgramación\bin\Debug\ProyectoProgramación.exe
+E:\ProyectoProgramación\ProyectoProgramación\bin\Debug\ProyectoProgramación.pdb
+E:\ProyectoProgramación\ProyectoProgramación\obj\Debug\ProyectoProgramación.exe
+E:\ProyectoProgramación\ProyectoProgramación\obj\Debug\ProyectoProgramación.pdb
+E:\ProyectoProgramación\ProyectoProgramación\obj\Debug\ProyectoProgramación.FormMenu.resources
+D:\ProyectoProgramación\ProyectoProgramación\bin\Debug\ProyectoProgramación.exe.config
+D:\ProyectoProgramación\ProyectoProgramación\bin\Debug\ProyectoProgramación.exe
+D:\ProyectoProgramación\ProyectoProgramación\bin\Debug\ProyectoProgramación.pdb
+D:\ProyectoProgramación\ProyectoProgramación\obj\Debug\ProyectoProgramación.csprojResolveAssemblyReference.cache
+D:\ProyectoProgramación\ProyectoProgramación\obj\Debug\ProyectoProgramación.FormMenu.resources
+D:\ProyectoProgramación\ProyectoProgramación\obj\Debug\ProyectoProgramación.Formnivel1.resources
+D:\ProyectoProgramación\ProyectoProgramación\obj\Debug\ProyectoProgramación.MainForm.resources
+D:\ProyectoProgramación\ProyectoProgramación\obj\Debug\ProyectoProgramación.csproj.GenerateResource.Cache
+D:\ProyectoProgramación\ProyectoProgramación\obj\Debug\ProyectoProgramación.exe
+D:\ProyectoProgramación\ProyectoProgramación\obj\Debug\ProyectoProgramación.pdb
+C:\Users\'\Documents\ProyectoProgramación\ProyectoProgramación\obj\Debug\ProyectoProgramación.csprojResolveAssemblyReference.cache
+C:\Users\'\Documents\ProyectoProgramación\ProyectoProgramación\obj\Debug\ProyectoProgramación.Formnivel1.resources
+C:\Users\'\Documents\ProyectoProgramación\ProyectoProgramación\obj\Debug\ProyectoProgramación.MainForm.resources
+C:\Users\'\Documents\ProyectoProgramación\ProyectoProgramación\obj\Debug\ProyectoProgramación.csproj.GenerateResource.Cache
+C:\Users\'\Documents\ProyectoProgramación\ProyectoProgramación\obj\Debug\ProyectoProgramación.exe
+C:\Users\'\Documents\ProyectoProgramación\ProyectoProgramación\obj\Debug\ProyectoProgramación.pdb
+C:\Users\'\Documents\ProyectoProgramación\ProyectoProgramación\bin\Debug\ProyectoProgramación.exe.config
+C:\Users\'\Documents\ProyectoProgramación\ProyectoProgramación\bin\Debug\ProyectoProgramación.exe
+C:\Users\'\Documents\ProyectoProgramación\ProyectoProgramación\bin\Debug\ProyectoProgramación.pdb
+C:\Users\'\Documents\ProyectoProgramación\ProyectoProgramación\obj\Debug\ProyectoProgramación.FormInsignias.resources
+C:\Users\'\Documents\ProyectoProgramación\ProyectoProgramación\obj\Debug\ProyectoProgramación.Formnivel2.resources
+C:\Users\'\Documents\ProyectoProgramación\ProyectoProgramación\obj\Debug\ProyectoProgramación.Formnivel3.resources
+C:\Users\'\Documents\ProyectoProgramación\ProyectoProgramación\obj\Debug\ProyectoProgramación.Formnivel4.resources
+C:\Users\'\Documents\ProyectoProgramación\ProyectoProgramación\obj\Debug\ProyectoProgramación.Formnivel5.resources
+C:\Users\'\Documents\ProyectoProgramación\ProyectoProgramación\obj\Debug\ProyectoProgramación.FormCargarUsuario.resources
+C:\Users\'\Documents\ProyectoProgramación\ProyectoProgramación\obj\Debug\ProyectoProgramación.FormAgregarUsuario.resources
+C:\Users\'\Documents\ProyectoProgramación - Creativisario\ProyectoProgramación\bin\Debug\ProyectoProgramación.exe.config
+C:\Users\'\Documents\ProyectoProgramación - Creativisario\ProyectoProgramación\bin\Debug\ProyectoProgramación.exe
+C:\Users\'\Documents\ProyectoProgramación - Creativisario\ProyectoProgramación\bin\Debug\ProyectoProgramación.pdb
+C:\Users\'\Documents\ProyectoProgramación - Creativisario\ProyectoProgramación\obj\Debug\ProyectoProgramación.csprojResolveAssemblyReference.cache
+C:\Users\'\Documents\ProyectoProgramación - Creativisario\ProyectoProgramación\obj\Debug\ProyectoProgramación.FormCargarUsuario.resources
+C:\Users\'\Documents\ProyectoProgramación - Creativisario\ProyectoProgramación\obj\Debug\ProyectoProgramación.FormInsignias.resources
+C:\Users\'\Documents\ProyectoProgramación - Creativisario\ProyectoProgramación\obj\Debug\ProyectoProgramación.Formnivel1.resources
+C:\Users\'\Documents\ProyectoProgramación - Creativisario\ProyectoProgramación\obj\Debug\ProyectoProgramación.Formnivel2.resources
+C:\Users\'\Documents\ProyectoProgramación - Creativisario\ProyectoProgramación\obj\Debug\ProyectoProgramación.Formnivel3.resources
+C:\Users\'\Documents\ProyectoProgramación - Creativisario\ProyectoProgramación\obj\Debug\ProyectoProgramación.Formnivel4.resources
+C:\Users\'\Documents\ProyectoProgramación - Creativisario\ProyectoProgramación\obj\Debug\ProyectoProgramación.Formnivel5.resources
+C:\Users\'\Documents\ProyectoProgramación - Creativisario\ProyectoProgramación\obj\Debug\ProyectoProgramación.FormAgregarUsuario.resources
+C:\Users\'\Documents\ProyectoProgramación - Creativisario\ProyectoProgramación\obj\Debug\ProyectoProgramación.MainForm.resources
+C:\Users\'\Documents\ProyectoProgramación - Creativisario\ProyectoProgramación\obj\Debug\ProyectoProgramación.csproj.GenerateResource.Cache
+C:\Users\'\Documents\ProyectoProgramación - Creativisario\ProyectoProgramación\obj\Debug\ProyectoProgramación.exe
+C:\Users\'\Documents\ProyectoProgramación - Creativisario\ProyectoProgramación\obj\Debug\ProyectoProgramación.pdb

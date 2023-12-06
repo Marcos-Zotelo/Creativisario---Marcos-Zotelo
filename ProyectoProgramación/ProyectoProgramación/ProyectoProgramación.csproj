@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{E7724394-C089-4808-8C2C-9AB2707E9AFC}</ProjectGuid>
+    <ProjectTypeGuids>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ProyectoProgramación</RootNamespace>
+    <AssemblyName>ProyectoProgramación</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClassConexion.cs" />
+    <Compile Include="FormCargarUsuario.cs" />
+    <Compile Include="FormCargarUsuario.Designer.cs">
+      <DependentUpon>FormCargarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInsignias.cs" />
+    <Compile Include="FormInsignias.Designer.cs">
+      <DependentUpon>FormInsignias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formnivel1.cs" />
+    <Compile Include="Formnivel1.Designer.cs">
+      <DependentUpon>Formnivel1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formnivel2.cs" />
+    <Compile Include="Formnivel2.Designer.cs">
+      <DependentUpon>Formnivel2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formnivel3.cs" />
+    <Compile Include="Formnivel3.Designer.cs">
+      <DependentUpon>Formnivel3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formnivel4.cs" />
+    <Compile Include="Formnivel4.Designer.cs">
+      <DependentUpon>Formnivel4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formnivel5.cs" />
+    <Compile Include="Formnivel5.Designer.cs">
+      <DependentUpon>Formnivel5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAgregarUsuario.cs" />
+    <Compile Include="FormAgregarUsuario.Designer.cs">
+      <DependentUpon>FormAgregarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs" />
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FormCargarUsuario.resx">
+      <DependentUpon>FormCargarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInsignias.resx">
+      <DependentUpon>FormInsignias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formnivel1.resx">
+      <DependentUpon>Formnivel1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formnivel2.resx">
+      <DependentUpon>Formnivel2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formnivel3.resx">
+      <DependentUpon>Formnivel3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formnivel4.resx">
+      <DependentUpon>Formnivel4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formnivel5.resx">
+      <DependentUpon>Formnivel5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAgregarUsuario.resx">
+      <DependentUpon>FormAgregarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
